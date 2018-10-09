@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{EC6E0E9F-7E13-BD22-43DB-82DABB230266}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-UnityScript</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_4_5_5;UNITY_4_5;UNITY_ANDROID;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_UNITYEVENTS;ENABLE_NEW_HIERARCHY ;ENABLE_AUDIO_FMOD;ENABLE_MONO;ENABLE_TERRAIN;ENABLE_SUBSTANCE;ENABLE_GENERICS;INCLUDE_WP8SUPPORT;ENABLE_WWW;ENABLE_IMAGEEFFECTS;INCLUDE_WP_BLUE_SUPPORT;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;ENABLE_CACHING;ENABLE_CLOTH;UNITY_ANDROID_API;ENABLE_2D_PHYSICS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_OSX;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE;AOT0;China;SPLIT_MODEL;NEWPVE;TEST;Google;DEBUG</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>/Applications/Unity4.5.5/Unity.app/Contents/Frameworks/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>/Applications/Unity4.5.5/Unity.app/Contents/Frameworks/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\3D\FX\PIC\rampDownParticle.js" />
+     <Compile Include="Assets\3D\Model2\effect\NFX\UI\Neweffect\SM_randoMMoveInBox.js" />
+     <Compile Include="Assets\3D\Model2\effect\NFX\UI\Neweffect\SM_rotateThis.js" />
+     <Compile Include="Assets\3D\Scripts\SM_destroyThisTimed.js" />
+     <Compile Include="Assets\3D\Scripts\SM_moveThis.js" />
+     <Compile Include="Assets\3D\Scripts\SM_randomRotation.js" />
+     <Compile Include="Assets\3D\Scripts\SM_trailFade.js" />
+     <Compile Include="Assets\3D\Scripts\destroyThisTimed.js" />
+     <Compile Include="Assets\Extensions\AndroidNative\xExample\Scripts\JS\JSUseExample.js" />
+     <Compile Include="Assets\OnQ Ultimate FX Pack 1 Cartoon\Scripts\ObjectSpin.js" />
+     <None Include="Assets\Plugins\StansAssets\Android\facebook\res\values-iw\strings.xml" />
+     <None Include="Assets\NGUI\Examples\Shaders\Unlit - Depth Cutout.shader" />
+     <None Include="Assets\NGUI\ReadMe - 3.7.7.txt" />
+     <None Include="Assets\Shaders\REDCommonModelDouble.shader" />
+     <None Include="Assets\Plugins\StansAssets\Android\facebook\res\layout\com_facebook_picker_list_section_header.xml" />
+     <None Include="Assets\TextFx\Changelog TextFx v2.7.txt" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Text 2.shader" />
+     <None Include="Assets\Plugins\StansAssets\Android\facebook\res\drawable\com_facebook_top_background.xml" />
+     <None Include="Assets\Atlas_New\bg\bgAtlas.txt" />
+     <None Include="Assets\NGUI\Examples\Models\Orc\Orc Skin.shader" />
+     <None Include="Assets\Useless\readme.txt" />
+     <None Include="Assets\NGUI\Examples\Atlases\Wooden\Arimo20.txt" />
+     <None Include="Assets\Shaders\Detail.shader" />
+     <None Include="Assets\Scripts\UI\Allen\Login\ReadMe.txt" />
+     <None Include="Assets\NGUI\Examples\Atlases\Wooden\Arimo14.txt" />
+     <None Include="Assets\Plugins\StansAssets\Android\facebook\res\layout\com_facebook_picker_title_bar_stub.xml" />
+     <None Include="Assets\Scripts\UI\JC\GuideSystem\ReadMe.txt" />
+     <None Include="Assets\Scripts\UI\Allen\Test\DelegateTest\ReadMe.txt" />
+     <None Include="Assets\Atlas_New\Challenge\RadarAtlas.txt" />
+     <None Include="Assets\Plugins\StansAssets\Android\facebook\res\drawable\com_facebook_button_check.xml" />
+     <None Include="Assets\Plugins\StansAssets\Android\facebook\res\layout\com_facebook_picker_list_row.xml" />
+     <None Include="Assets\Shaders\CFXM_MobileParticleAdd_Alpha8.shader" />
+     <None Include="Assets\Plugins\StansAssets\Android\facebook\bin\R.txt" />
+     <None Include="Assets\Shaders\Unlit-AlphaTestDouble.shader" />
+     <None Include="Assets\2D\CGAllen\CG2\CG2.txt" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Text 1.shader" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Premultiplied Colored (TextureClip).shader" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored (Packed) (TextureClip).shader" />
+     <None Include="Assets\Editor\XUPorter\Mods\iOS\Spade\HTGameFiles\PPImage.bundle\check.txt" />
+     <None Include="Assets\Plugins\Android\res\xml\file_paths.xml" />
+     <None Include="Assets\Plugins\Android\res\layout-v11\status_bar_ongoing_event_progress_bar.xml" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored 2.shader" />
+     <None Include="Assets\Plugins\Android\res\values\ids.xml" />
+     <None Include="Assets\Atlas_New\Challenge\Challenge.txt" />
+     <None Include="Assets\Resources\UnPack\CRLuo\REDCommonModelDouble.shader" />
+     <None Include="Assets\Plugins\StansAssets\Android\facebook\res\values-ldpi\dimens.xml" />
+     <None Include="Assets\NGUI\Examples\Shaders\Unlit - Masked Colored.shader" />
+     <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Premultiplied Colored 3.shader" />
+     <None Include="Assets\Plugins\StansAssets\Android\facebook\res\values\attrs.xml" />
+     <None Include="Assets\3D\Model\Anim\10134\动作列表.txt" />
+     <None Include="Assets\Scripts\UI\MyFirst.shader" />
+     <None Include="Assets\Scripts\DataLogical\ReadMe.txt" />
+     <None Include="Assets\Plugins\StansAssets\Android\social\twitter4j-core-3.0.5.txt" />
+     <None Include="Assets\Plugins\StansAssets\Android\facebook\res\drawable\com_facebook_loginbutton_silver.xml" />
+     <None Include="Assets\Scripts\Framework\Utils\DispatchToMainThread\ReadMe.txt" />
+     <None Include="Assets\Plugins\StansAssets\Android\facebook\build.xml" />
+     <None Include="Assets\Scripts\Framework\Utils\SoundManager\ReadMe.txt" />
+     <None Include="Assets\NGUI\Examples\Atlases\Wooden\Arimo18.txt" />
+     <None Include="Assets\Atlas_New\ZhaomuAtlas\ZhaomuAtlas.txt" />
+     <None Include="Assets\Editor\XUPorter\Mods\iOS\Spade\HTGameFiles\PPImage.bundle\channel.txt" />
+     <None Include="Assets\Shaders\Font.shader" />
+     <None Include="Assets\Atlas_New\Battle\Attend.txt" />
+     <None Include="Assets\Atlas_New\ChAnim1\Ch1.txt" />
+     <None Include="Assets\Plugins\StansAssets\Android\res\values\ids.xml" />
+     <None Include="Assets\Shaders\DepthMask.shader" />
+     <None Include="Assets\Shaders\ToonShader2\TSM2TransparentOutline 1.shader" />
+     <None Include="Assets\Plugins\StansAssets\Android\androidnative.txt" />
+     <None Include="Assets\Atlas_New\ChAnim\Trans.txt" />
+     <None Include="Assets\Plugins\StansAssets\Android\social\an_social.txt" />
+     <None Include="Assets\2D\CGAllen\CG4\CG4.txt" />
+     <None Include="Assets\Shaders\ToonShader2\TSM2Transparent 1.shader" />
+     <None Include="Assets\Plugins\StansAssets\Android\facebook\res\drawable\com_facebook_picker_top_button.xml" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored (TextureClip).shader" />
+     <None Include="Assets\Scripts\Framework\DataManager\ReadMe.txt" />
+     <None Include="Assets\Shaders\CRLuo_TextOBJShader.shader" />
+     <None Include="Assets\Plugins\StansAssets\Android\facebook\res\layout\com_facebook_picker_search_box.xml" />
+     <None Include="Assets\NGUI\Examples\Atlases\SciFi\SciFi Font - Header.txt" />
+     <None Include="Assets\Plugins\StansAssets\Android\facebook\res\layout\com_facebook_friendpickerfragment.xml" />
+     <None Include="Assets\Plugins\StansAssets\Android\facebook\res\drawable\com_facebook_usersettingsfragment_background_gradient.xml" />
+     <None Include="Assets\Atlas_New\ChAnim3\Ch3.txt" />
+     <None Include="Assets\Plugins\Android\res\values-v9\styles.xml" />
+     <None Include="Assets\Atlas_New\createRole\CR.txt" />
+     <None Include="Assets\Editor\XUPorter\Mods\iOS\Spade\HTGameFiles\PPImage.bundle\JailBreak.txt" />
+     <None Include="Assets\Resources\UnPack\WHY\Mask\CRLuo_TopBlackTopColor.shader" />
+     <None Include="Assets\Plugins\StansAssets\Android\facebook\res\values\styles.xml" />
+     <None Include="Assets\Plugins\StansAssets\Android\facebook\res\values\strings.xml" />
+     <None Include="Assets\Plugins\Android\res\layout\main.xml" />
+     <None Include="Assets\Shaders\ToonShader2\TSM2Transparent2POutline 1.shader" />
+     <None Include="Assets\Plugins\StansAssets\Android\libs\android-support-v4.txt" />
+     <None Include="Assets\Plugins\StansAssets\Android\facebook\res\layout\com_facebook_search_bar_layout.xml" />
+     <None Include="Assets\Plugins\StansAssets\Android\facebook\res\drawable\com_facebook_picker_list_selector.xml" />
+     <None Include="Assets\Plugins\StansAssets\Android\facebook\res\layout\com_facebook_picker_image.xml" />
+     <None Include="Assets\Plugins\Android\res\values-v11\styles.xml" />
+     <None Include="Assets\link.xml" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored 1.shader" />
+     <None Include="Assets\Atlas_New\PVE_MapLine\PVE_MapLine.txt" />
+     <None Include="Assets\NGUI\Examples\Atlases\Fantasy\Fantasy Font - Normal.txt" />
+     <None Include="Assets\Atlas_New\Emotion\EmotionAtlas.txt" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored 3.shader" />
+     <None Include="Assets\Atlas_New\Battle\Fight.txt" />
+     <None Include="Assets\NGUI\Examples\Atlases\Refractive\Refractive Font - Normal.txt" />
+     <None Include="Assets\Plugins\StansAssets\Android\facebook\res\layout\com_facebook_placepickerfragment.xml" />
+     <None Include="Assets\Atlas_New\Animation2DGuide\Animation2DGuide.txt" />
+     <None Include="Assets\Atlas_New\WeiXin\simpleCn\Weixin.txt" />
+     <None Include="Assets\TextFx\Utilities\Boomlagoon\JSON\Readme.txt" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Premultiplied Colored 2.shader" />
+     <None Include="Assets\Plugins\StansAssets\Android\facebook\res\drawable\com_facebook_picker_item_background.xml" />
+     <None Include="Assets\Shaders\ToonShader2\TSM2Transparent2P 1.shader" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Text 3.shader" />
+     <None Include="Assets\Atlas_New\ChAnim2\Ch2.txt" />
+     <None Include="Assets\Plugins\StansAssets\Android\facebook\proguard-project.txt" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Packed 2.shader" />
+     <None Include="Assets\Shaders\Mobile-Particle-Add.shader" />
+     <None Include="Assets\Atlas_New\ChAnim4\Ch4.txt" />
+     <None Include="Assets\Shaders\hailang2.shader" />
+     <None Include="Assets\TextFx\README.txt" />
+     <None Include="Assets\Scripts\Framework\NetworkEngine\SocketEngine\SocketCore\ReadMe.txt" />
+     <None Include="Assets\2D\CGAllen\CG1\CG1.txt" />
+     <None Include="Assets\2D\CGAllen\CG3\CG3.txt" />
+     <None Include="Assets\Plugins\StansAssets\Android\facebook\res\values\colors.xml" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Packed 1.shader" />
+     <None Include="Assets\TextFx\v2.7 Update Notes.txt" />
+     <None Include="Assets\Plugins\InMobiAndroid\Manifest.xml" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Premultiplied Colored 1.shader" />
+     <None Include="Assets\Plugins\StansAssets\Android\facebook\res\values\drawables.xml" />
+     <None Include="Assets\Shaders\ToonShader2\TSM2Base 1.shader" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Premultiplied Colored.shader" />
+     <None Include="Assets\Plugins\StansAssets\Android\google_play\google-play-services.txt" />
+     <None Include="Assets\Atlas_New\WeiXin\Weixin.txt" />
+     <None Include="Assets\Scripts\Framework\Utils\FastJson\ReadMe.txt" />
+     <None Include="Assets\Plugins\StansAssets\Android\res\values\analytics.xml" />
+     <None Include="Assets\Plugins\StansAssets\Android\app_licensing\an_licensing_library.txt" />
+     <None Include="Assets\Shaders\Outline Ortho Detail.shader" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored.shader" />
+     <None Include="Assets\Plugins\StansAssets\Android\facebook\bin\AndroidManifest.xml" />
+     <None Include="Assets\Editor\XUPorter\Mods\iOS\Spade\HTGameFiles\PPImage.bundle\b.txt" />
+     <None Include="Assets\Shaders\REDCommonModel_Sky.shader" />
+     <None Include="Assets\Plugins\StansAssets\Android\facebook\res\drawable\com_facebook_top_button.xml" />
+     <None Include="Assets\Scripts\Framework\Utils\LRUCache\ReadMe.txt" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Text.shader" />
+     <None Include="Assets\Plugins\Android\res\layout\status_bar_ongoing_event_progress_bar.xml" />
+     <None Include="Assets\Shaders\ToonShader2\TSM2Cutout 1.shader" />
+     <None Include="Assets\Plugins\StansAssets\Android\AndroidManifest.xml" />
+     <None Include="Assets\Plugins\StansAssets\Versions\AN_VersionInfo.txt" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Packed.shader" />
+     <None Include="Assets\Plugins\StansAssets\Android\facebook\res\drawable\com_facebook_picker_list_selector_background_transition.xml" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Packed 3.shader" />
+     <None Include="Assets\Atlas_New\CG_BiKe\1.txt" />
+     <None Include="Assets\Plugins\StansAssets\Android\billing\an_billing.txt" />
+     <None Include="Assets\Atlas_New\Battle\BattleEff.txt" />
+     <None Include="Assets\Plugins\StansAssets\Android\facebook\res\layout\com_facebook_placepickerfragment_list_row.xml" />
+     <None Include="Assets\Plugins\StansAssets\Android\facebook\res\values-xhdpi\dimens.xml" />
+     <None Include="Assets\Plugins\Android\res\values\version.xml" />
+     <None Include="Assets\Plugins\StansAssets\Android\facebook\res\values-es\strings.xml" />
+     <None Include="Assets\Plugins\StansAssets\Android\facebook\res\layout\com_facebook_tooltip_bubble.xml" />
+     <None Include="Assets\Plugins\StansAssets\Android\libs\image-chooser-library-1.3.0.txt" />
+     <None Include="Assets\Plugins\StansAssets\Android\facebook\res\values-mdpi\dimens.xml" />
+     <None Include="Assets\Plugins\Android\build.xml" />
+     <None Include="Assets\Shaders\ToonShader2\TSM2BaseOutline 1.shader" />
+     <None Include="Assets\Plugins\StansAssets\Android\facebook\res\values-hdpi\dimens.xml" />
+     <None Include="Assets\Resources\UnPack\WHY\Mask\CRLuo_TopBlack.shader" />
+     <None Include="Assets\Plugins\StansAssets\Android\res\values\version.xml" />
+     <None Include="Assets\Shaders\REDCommonModel.shader" />
+     <None Include="Assets\Plugins\StansAssets\Android\google_play\an_googleplay.txt" />
+     <None Include="Assets\Plugins\Android\res\values\analytics.xml" />
+     <None Include="Assets\NGUI\Examples\Shaders\Unlit - Additive Colored.shader" />
+     <None Include="Assets\Extensions\AndroidManifestManager\default.xml" />
+     <None Include="Assets\Plugins\StansAssets\Android\facebook\res\layout\com_facebook_usersettingsfragment.xml" />
+     <None Include="Assets\Scripts\Framework\NetworkEngine\HttpEngine\ReadMe.txt" />
+     <None Include="Assets\Plugins\Android\res\values\styles.xml" />
+     <None Include="Assets\Shaders\ToonShader2\TSM2CutoutOutline 1.shader" />
+     <None Include="Assets\Plugins\StansAssets\Android\res\xml\file_paths.xml" />
+     <None Include="Assets\NGUI\Examples\Atlases\Refractive\Refractive Font - Header.txt" />
+     <None Include="Assets\NGUI\Examples\Shaders\Refractive.shader" />
+     <None Include="Assets\Plugins\StansAssets\Android\facebook\res\values-he\strings.xml" />
+     <None Include="Assets\Plugins\StansAssets\Android\facebook\res\layout\com_facebook_picker_checkbox.xml" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Text (TextureClip).shader" />
+     <None Include="Assets\Atlas_New\Challenge\challengeb.txt" />
+     <None Include="Assets\NGUI\Examples\Shaders\Unlit - Depth.shader" />
+     <None Include="Assets\NGUI\Examples\Atlases\SciFi\SciFi Font - Normal.txt" />
+     <None Include="Assets\Plugins\StansAssets\Android\facebook\res\layout\com_facebook_login_activity_layout.xml" />
+     <None Include="Assets\Plugins\StansAssets\Android\facebook\res\layout\com_facebook_picker_title_bar.xml" />
+     <None Include="Assets\Extensions\StansAssetsCommon\SA_FB_PlaceHolder.txt" />
+     <None Include="Assets\Plugins\StansAssets\Android\facebook\AndroidManifest.xml" />
+     <None Include="Assets\Atlas_New\PVE\PVE.txt" />
+     <None Include="Assets\3D\Model\Anim\10143\动作列表.txt" />
+     <None Include="Assets\Plugins\Android\res\values\strings.xml" />
+     <None Include="Assets\NGUI\Examples\Models\Orc Armor\Orc Armor.shader" />
+     <None Include="Assets\Plugins\Android\res\values\main-strings.xml" />
+     <None Include="Assets\Atlas_New\NewGuideUI\NewGuideUI.txt" />
+     <None Include="Assets\Atlas_New\CG_BiKe\2.txt" />
+     <None Include="Assets\Plugins\StansAssets\Android\facebook\res\layout\com_facebook_picker_activity_circle_row.xml" />
+     <None Include="Assets\NGUI\Examples\Resources\Localization.txt" />
+     <None Include="Assets\Plugins\StansAssets\Android\facebook\res\drawable\com_facebook_button_blue.xml" />
+     <None Include="Assets\Shaders\SM_TransparentRim.shader" />
+ <Reference Include="JsonFx.Json">
+ <HintPath>/Users/xin/Desktop/DragonBall_TraditionalChina/DragonBall/Client/DragonBall/Assets/Plugins/JsonFx.Json.dll</HintPath>
+ </Reference>
+ <Reference Include="P31RestKit">
+ <HintPath>/Users/xin/Desktop/DragonBall_TraditionalChina/DragonBall/Client/DragonBall/Assets/Plugins/P31RestKit.dll</HintPath>
+ </Reference>
+ <Reference Include="TDGAAnalytics">
+ <HintPath>/Users/xin/Desktop/DragonBall_TraditionalChina/DragonBall/Client/DragonBall/Assets/Plugins/TDGAAnalytics.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{338181CE-95D1-22A6-2F06-463CF409E705}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

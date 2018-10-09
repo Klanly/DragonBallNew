@@ -1,0 +1,27 @@
+<linker>
+    <assembly fullname="System">
+        <type fullname="System.Net.Configuration.WebRequestModuleHandler" preserve="all"/>
+        <type fullname="System.Net.HttpRequestCreator" preserve="all"/>
+        <type fullname="System.Net.FileWebRequestCreator" preserve="all"/>
+        <type fullname="System.DateTime" preserve="all"/>
+        <type fullname="System.Net.Sockets" preserve="all"/>
+        <type fullname="System.Net.EndPoint" preserve="all"/>
+        <type fullname="System.Net.IPAddress" preserve="all"/>
+        <type fullname="System.Net.Dns" preserve="all"/>
+        <type fullname="System.Net.IPEndPoint" preserve="all"/>
+        <type fullname="System.ComponentModel.CharConverter" preserve="all"/>
+        <type fullname="System.ComponentModel.Int16Converter" preserve="all"/>
+        <type fullname="System.ComponentModel.Int32Converter" preserve="all"/>
+        <type fullname="System.ComponentModel.Int64Converter" preserve="all"/>
+        <type fullname="System.ComponentModel.DoubleConverter" preserve="all"/>
+        <type fullname="System.ComponentModel.DecimalConverter" preserve="all"/>
+        <type fullname="System.ComponentModel.SingleConverter" preserve="all"/>
+    </assembly>
+    
+    <assembly fullname="mscorlib">
+
+        <namespace fullname="System.Security.Cryptography" preserve="all"/>
+        
+    </assembly>
+    
+</linker>

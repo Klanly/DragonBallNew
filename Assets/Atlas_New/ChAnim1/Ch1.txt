@@ -1,0 +1,60 @@
+{"frames": {
+
+"manhua-01.png":
+{
+	"frame": {"x":2,"y":393,"w":198,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":198,"h":560},
+	"sourceSize": {"w":198,"h":560}
+},
+"manhua-02.png":
+{
+	"frame": {"x":2,"y":182,"w":424,"h":209},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":424,"h":209},
+	"sourceSize": {"w":424,"h":209}
+},
+"manhua-03.png":
+{
+	"frame": {"x":2,"y":2,"w":427,"h":178},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":178},
+	"sourceSize": {"w":427,"h":178}
+},
+"manhua-04.png":
+{
+	"frame": {"x":202,"y":545,"w":143,"h":378},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":378},
+	"sourceSize": {"w":143,"h":378}
+},
+"manhua-06.png":
+{
+	"frame": {"x":347,"y":545,"w":150,"h":218},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":218},
+	"sourceSize": {"w":150,"h":218}
+},
+"manhua-07.png":
+{
+	"frame": {"x":202,"y":393,"w":218,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":218,"h":150},
+	"sourceSize": {"w":218,"h":150}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "C.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:48d14e97301a6c8355381cc74f129163:1/1$"
+}
+}

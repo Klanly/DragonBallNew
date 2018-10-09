@@ -1,0 +1,33 @@
+<!-- ACTIVITIES -->
+		<activity android:name="com.inmobi.androidsdk.IMBrowserActivity" android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|smallestScreenSize|screenSize"   android:theme="@android:style/Theme.Translucent.NoTitleBar" android:hardwareAccelerated="true" android:screenOrientation="sensor" />
+        <!--<meta-data
+    android:name="com.google.android.gms.version"
+    android:value="@integer/google_play_services_version" />-->
+    <receiver
+	 android:name="com.inmobi.commons.analytics.androidsdk.IMAdTrackerReceiver"
+	   android:enabled="true"
+	   android:exported="true" >
+	   <intent-filter>
+	      <action android:name="com.android.vending.INSTALL_REFERRER"/>
+	      <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+          <action android:name="com.inmobi.share.id" />
+	   </intent-filter>
+	</receiver>
+
+
+<!-- PERMISSIONS -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
+	<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_LOGS" />
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="com.google.android.gms.permission.ACTIVITY_RECOGNITION"/>
+    <uses-permission android:name="android.permission.READ_CALENDAR"/>
+    <uses-permission android:name="android.permission.WRITE_CALENDAR"/>
+

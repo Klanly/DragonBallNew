@@ -1,0 +1,28 @@
+{"frames": {
+
+"gogo.png":
+{
+	"frame": {"x":2,"y":2,"w":175,"h":124},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":175,"h":124},
+	"sourceSize": {"w":175,"h":124}
+},
+"ready.png":
+{
+	"frame": {"x":179,"y":2,"w":310,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":310,"h":85},
+	"sourceSize": {"w":310,"h":85}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "Attend.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3e95265ee671d5810f0aa83fbbc4e0d9:1/1$"
+}
+}

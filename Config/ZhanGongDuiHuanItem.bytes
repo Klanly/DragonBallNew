@@ -1,0 +1,12 @@
+{"plistID":1,"zgprice":1000,"pid":110032,"num":1,"des":"消耗1000战功可兑换","rank":-1}
+{"plistID":2,"zgprice":10000,"pid":110032,"num":10,"des":"消耗10000战功可兑换","rank":-1}
+{"plistID":3,"zgprice":50000,"pid":110032,"num":50,"des":"消耗50000战功可兑换","rank":-1}
+{"plistID":4,"zgprice":0,"pid":110032,"num":60,"des":"排名首次进入1000名内可获得","rank":1000}
+{"plistID":5,"zgprice":0,"pid":110032,"num":60,"des":"排名首次进入500名内可获得","rank":500}
+{"plistID":6,"zgprice":0,"pid":110032,"num":60,"des":"排名首次进入200名内可获得","rank":200}
+{"plistID":7,"zgprice":0,"pid":110032,"num":60,"des":"排名首次进入100名内可获得","rank":100}
+{"plistID":8,"zgprice":0,"pid":110032,"num":60,"des":"排名首次进入50名内可获得","rank":50}
+{"plistID":9,"zgprice":0,"pid":110032,"num":120,"des":"排名首次进入10名内可获得","rank":10}
+{"plistID":10,"zgprice":0,"pid":110032,"num":120,"des":"排名首次进成为第1名可获得","rank":1}
+{"plistID":11,"zgprice":10000,"pid":110048,"num":1,"des":"消耗10000战功可兑换","rank":-1}
+{"plistID":12,"zgprice":100000,"pid":110048,"num":10,"des":"消耗100000战功可兑换","rank":-1}

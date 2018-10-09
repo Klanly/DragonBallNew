@@ -1,0 +1,44 @@
+{"frames": {
+
+"ldzd_gknd_t1.png":
+{
+	"frame": {"x":257,"y":237,"w":253,"h":233},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":253,"h":233},
+	"sourceSize": {"w":253,"h":233}
+},
+"ldzd_gknd_t2.png":
+{
+	"frame": {"x":2,"y":237,"w":253,"h":233},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":253,"h":233},
+	"sourceSize": {"w":253,"h":233}
+},
+"ldzd_gknd_t3.png":
+{
+	"frame": {"x":257,"y":2,"w":253,"h":233},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":253,"h":233},
+	"sourceSize": {"w":253,"h":233}
+},
+"ldzd_gknd_t4.png":
+{
+	"frame": {"x":2,"y":2,"w":253,"h":233},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":253,"h":233},
+	"sourceSize": {"w":253,"h":233}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "RadarAtlas.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:85cf7602c513c477d47a2e2ae50d6d72:1/1$"
+}
+}

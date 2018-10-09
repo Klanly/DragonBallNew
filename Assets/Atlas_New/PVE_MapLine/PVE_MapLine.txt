@@ -1,0 +1,76 @@
+{"frames": {
+
+"xianlu-01.png":
+{
+	"frame": {"x":2,"y":456,"w":491,"h":211},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":491,"h":211},
+	"sourceSize": {"w":495,"h":213}
+},
+"xianlu-02.png":
+{
+	"frame": {"x":497,"y":431,"w":492,"h":217},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":492,"h":217},
+	"sourceSize": {"w":496,"h":219}
+},
+"xianlu-03.png":
+{
+	"frame": {"x":495,"y":650,"w":489,"h":209},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":489,"h":209},
+	"sourceSize": {"w":493,"h":211}
+},
+"xianlu-04.png":
+{
+	"frame": {"x":2,"y":669,"w":486,"h":214},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":486,"h":214},
+	"sourceSize": {"w":490,"h":218}
+},
+"xianlu-05.png":
+{
+	"frame": {"x":2,"y":226,"w":493,"h":228},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":493,"h":228},
+	"sourceSize": {"w":497,"h":230}
+},
+"xianlu-06.png":
+{
+	"frame": {"x":509,"y":205,"w":498,"h":224},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":498,"h":224},
+	"sourceSize": {"w":502,"h":228}
+},
+"xianlu-07.png":
+{
+	"frame": {"x":2,"y":2,"w":505,"h":222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":505,"h":222},
+	"sourceSize": {"w":509,"h":226}
+},
+"xianlu-08.png":
+{
+	"frame": {"x":509,"y":2,"w":502,"h":201},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":502,"h":201},
+	"sourceSize": {"w":506,"h":205}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "PVE_MapLine.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3aabbe656f1b748cadb1845f04aac585:1/1$"
+}
+}

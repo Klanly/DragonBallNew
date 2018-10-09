@@ -1,0 +1,18 @@
+{
+    "group": "Spade",
+    "libs": ["libz.dylib",
+             "libMobileGestalt.dylib"
+            ],
+    "frameworks": [
+				    "CoreTelephony.framework",
+    				"Security.framework",
+    				"AdSupport.framework:optional",
+    			  ],
+    "headerpaths": [],
+    "files":   ["iOS/TalkingGA/libTalkingDataGA.a",
+                "iOS/Spade/HTGameFiles/PPAppPlatformKit.framework"],
+    "folders": ["iOS/Spade/"],
+    "excludes": ["^.*.meta$", "^.*.mdown$", "^.*.pdf$"],
+    "compiler_flags": [],
+    "linker_flags": ["-all_load"]
+}

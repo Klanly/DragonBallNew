@@ -1,0 +1,54 @@
+Idle站立呼吸                    50帧
+
+GoRush前冲                      30帧
+
+BackRush后冲                    30帧
+
+Show出场动作                    25帧
+
+Attack                         120帧
+
+
+Skill技能                       60帧
+
+
+Defend防                         50帧
+
+GroupSkill群体攻击技能           67帧
+
+OverSkill_0终结技开始            0~105
+
+OverSkill_1终结技循环           106~118
+
+OverSkill_2终结技结束           118~204
+
+
+Free1休闲1                       40帧
+
+
+Free2休闲2                       67帧
+
+Injure_0 站立挨打               0~16  
+  
+Injure_1                       17~32 
+
+Injure_2                        33~50
+
+Injure_G0 倒地弹起(//面向上)   0~30
+
+Injure_G1倒地挨打（面向上）     31~70 
+
+Injure_G2倒地挨打翻滚（挨打终止） 71~103
+
+
+Injure_Fly_Go 死亡(击飞倒地)  32  
+
+Injure_Fly_Down               30
+
+Injure_Fly_Up                 35
+
+StandUp 起身                 30 
+
+
+
+

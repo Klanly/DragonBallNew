@@ -1,0 +1,28 @@
+{"frames": {
+
+"Symbol 30.png":
+{
+	"frame": {"x":448,"y":2,"w":60,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+"cjjs_bj.png":
+{
+	"frame": {"x":2,"y":2,"w":444,"h":500},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":444,"h":500},
+	"sourceSize": {"w":444,"h":500}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "CR.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ac5b1fa8bdc1f572b47e3f95fae7720c:1/1$"
+}
+}

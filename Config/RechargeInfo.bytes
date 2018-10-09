@@ -1,0 +1,7 @@
+{"Describe":"连续30天每天可领取100钻","Describe1":"首次购买赠送5星武者!!","ID":1,"Iconid":"shop-1012","Sell":1,"Recommend":1,"Diamond":[110052,300],"Present1":[],"Title":"购买即送300钻石","Price":25,"Double":0,"Present2":[110025,1],"Type":0,"Rank":1}
+{"Describe":"另送{0}钻石","Describe1":"","ID":2,"Iconid":"shop-0011","Sell":1,"Recommend":1,"Diamond":[110052,6480],"Present1":[110052,1620],"Title":"6480钻石","Price":648,"Double":1,"Present2":[110052,6480],"Type":1,"Rank":2}
+{"Describe":"另送{0}钻石","Describe1":"","ID":3,"Iconid":"shop-0010","Sell":1,"Recommend":1,"Diamond":[110052,3280],"Present1":[110052,600],"Title":"3280钻石","Price":328,"Double":1,"Present2":[110052,3280],"Type":1,"Rank":3}
+{"Describe":"另送{0}钻石","Describe1":"","ID":4,"Iconid":"shop-0008","Sell":1,"Recommend":1,"Diamond":[110052,1980],"Present1":[110052,240],"Title":"1980钻石","Price":198,"Double":1,"Present2":[110052,1980],"Type":1,"Rank":4}
+{"Describe":"另送{0}钻石","Describe1":"","ID":5,"Iconid":"shop-0009","Sell":1,"Recommend":1,"Diamond":[110052,980],"Present1":[110052,80],"Title":"980钻石","Price":98,"Double":1,"Present2":[110052,980],"Type":1,"Rank":5}
+{"Describe":"另送{0}钻石","Describe1":"","ID":6,"Iconid":"shop-0007","Sell":1,"Recommend":1,"Diamond":[110052,300],"Present1":[110052,15],"Title":"300钻石","Price":30,"Double":1,"Present2":[110052,300],"Type":1,"Rank":6}
+{"Describe":"另送{0}钻石","Describe1":"","ID":7,"Iconid":"shop-0007","Sell":1,"Recommend":0,"Diamond":[110052,60],"Present1":[],"Title":"60钻石","Price":6,"Double":0,"Present2":[],"Type":1,"Rank":7}

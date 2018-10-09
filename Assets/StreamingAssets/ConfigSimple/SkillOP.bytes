@@ -1,0 +1,51 @@
+{"enhanced":["damage"],"name":"固定伤害","type":1,"prior":1,"ID":1,"mark":"每场战斗有gailv%的概率对当前敌人造成damage点伤害。"}
+{"enhanced":["rate"],"name":"比例攻击","type":1,"prior":1,"ID":2,"mark":"每场战斗有gailv%的概率对当前敌人造成自身当前战斗力rate%的伤害。"}
+{"enhanced":["rate"],"name":"百分比伤害","type":1,"prior":1,"ID":3,"mark":"每场战斗有gailv%的概率直接减少当前敌人rate%的战斗力。"}
+{"enhanced":["rate"],"name":"几率连击","type":1,"prior":1,"ID":4,"mark":"战斗开始必定对当前敌人造成自身战斗力rate%的伤害，并有gailv%的概率额外追加一次同等伤害。"}
+{"enhanced":["add"],"name":"攻击增加固定值","type":1,"prior":2,"ID":5,"mark":"每场战斗有gailv%的概率，增加自身add点战斗力，且角色不阵亡，效果持续存在。"}
+{"enhanced":["rate"],"name":"攻击增加比例","type":1,"prior":2,"ID":6,"mark":"每场战斗有gailv%的概率，增加自身rate%的战斗力，且角色不阵亡，效果持续存在。"}
+{"enhanced":["damage"],"name":"吸取生命固定值","type":1,"prior":2,"ID":7,"mark":"每场战斗有gailv%的概率，对当前敌人造成damage点战斗力的伤害，并将伤害中的rate%转化为自身战斗力。"}
+{"enhanced":["rate"],"name":"吸取生命比例","type":1,"prior":2,"ID":8,"mark":"每场战斗有gailv%的概率，降低敌人当前战斗力rate%，并将降低战斗力中的rate2%转化为自身战斗力。"}
+{"enhanced":["dec","damage"],"name":"自损固定值","type":1,"prior":1,"ID":9,"mark":"每场战斗有gailv%的概率自损当前dec点战斗力，同时对当前敌人造成damage点伤害。"}
+{"enhanced":["rate","rate2"],"name":"自损比例","type":1,"prior":1,"ID":10,"mark":"每场战斗有gailv%的概率自损当前rate%的战斗力，同时降低当前敌人rate2%的战斗力。"}
+{"enhanced":["gailv"],"name":"复活1","type":1,"prior":3,"ID":11,"mark":"每场战斗有gailv%的概率随机复活己方num名已阵亡武者，并将复活的武者加入到队伍末尾。"}
+{"enhanced":["gailv"],"name":"复活2","type":1,"prior":3,"ID":12,"mark":"每场战斗有gailv%的概率复活当前对阵武者的前一名阵亡武者，并将其加入到队伍的末尾。"}
+{"enhanced":["damage"],"name":"自爆固定伤害","type":2,"prior":1,"ID":13,"mark":"当自身死亡时，有gailv%的概率对当前敌人造成damage点伤害。"}
+{"enhanced":["rate"],"name":"自爆比例攻击","type":2,"prior":1,"ID":14,"mark":"当自身死亡时，有gailv%的概率对当前敌人，造成我方武者本场初始战斗力rate%的伤害。"}
+{"enhanced":["rate"],"name":"自爆百分比伤害","type":2,"prior":1,"ID":15,"mark":"当自身死亡时，有gailv%的概率降低当前敌人rate%的战斗力。"}
+{"enhanced":["gailv"],"name":"自爆群体衰弱","type":2,"prior":1,"ID":16,"mark":"当自身死亡时，有gailv%的概率对敌方未阵亡的seal名敌人（含当前敌人），使其首次上场的回合不能触发普通技能。（除怒气技）"}
+{"enhanced":["num"],"name":"自爆群体伤害","type":2,"prior":1,"ID":17,"mark":"当自身死亡时有gailv%的概率，对敌方当前敌人“后”rate名敌人（含当前敌人），造成其上场回合初始战斗力num%的伤害。"}
+{"enhanced":["num"],"name":"群体增益","type":1,"prior":3,"ID":18,"mark":"每场战斗有gailv%的概率增加自己后rate名队友，上场回合初始战斗力num%。"}
+{"enhanced":[],"name":"金钟罩 [buff]","type":1,"prior":3,"ID":19,"mark":"每场战斗有gailv%的概率，使自身完全抵挡下一次所受的伤害，此伤害包括所有类型伤害。"}
+{"enhanced":["rate"],"name":"假死","type":2,"prior":1,"ID":20,"mark":"每场战斗当自身受到致死攻击时，有gailv%的概率在受到伤害后仍保留1点战斗力，并回复自身本场初始战斗力的rate%。"}
+{"enhanced":[],"name":"伤害加倍 [debuff]","type":1,"prior":2,"ID":21,"mark":"每场战斗有gailv%的概率，使敌方当前武者，受到的下rate次伤害提升num%，如敌人不死或伤害加成次数未结束，下轮依然生效。"}
+{"enhanced":["rate"],"name":"回复","type":3,"prior":1,"ID":22,"mark":"每轮战斗结束后，有gailv%的概率立即回复自身本回合初始战斗力的rate%。"}
+{"enhanced":[],"name":"护盾1 [buff]","type":1,"prior":3,"ID":23,"mark":"每场战斗有gailv%的概率，给自身施加可在本轮战斗中抵消最多abosorb点伤害的护盾。"}
+{"enhanced":[],"name":"护盾2 [buff]","type":1,"prior":3,"ID":24,"mark":"每场战斗有gailv%的概率，给自身施加相当于自身当前战斗力abosorb%的护盾，用于抵消伤害。"}
+{"enhanced":["gailv"],"name":"免疫敌人技能 [buff]","type":1,"prior":3,"ID":25,"mark":"每场战斗有gailv%的概率使自身免疫敌方技能效果，持续rate场战斗。"}
+{"enhanced":["rate"],"name":"先增后减(以下为郭襄新加)","type":1,"prior":3,"ID":26,"mark":"每场战斗有gailv%的概率增加自身rate%的战斗力，但剩余战斗力会在下一轮降低num%。"}
+{"enhanced":["gailv"],"name":"无视属性克制","type":1,"prior":1,"ID":27,"mark":"每场战斗有gailv%的概率，使自身当前回合免疫属性克制的影响。"}
+{"enhanced":["rate"],"name":"夺取差值","type":1,"prior":2,"ID":28,"mark":"当敌人战斗力高于我方武者时，有gailv%的概率，夺取敌人与我方武者战斗力差值的rate%，添加到自身战斗力上。"}
+{"enhanced":["gailv"],"name":"变为全属性","type":1,"prior":1,"ID":29,"mark":"每场战斗有gailv%的概率使自身变为全属性。"}
+{"enhanced":[],"name":"固定伤害","type":0,"prior":1,"ID":101,"mark":"对单个敌人造成damage点伤害，消耗nuqi点怒气。"}
+{"enhanced":[],"name":"比例攻击","type":0,"prior":1,"ID":102,"mark":"对当前敌人造成自身战斗力rate%的伤害，消耗nuqi点怒气。"}
+{"enhanced":[],"name":"百分比伤害","type":0,"prior":1,"ID":103,"mark":"降低当前敌人rate%的战斗力，消耗nuqi点怒气。"}
+{"enhanced":[],"name":"斩杀","type":0,"prior":2,"ID":104,"mark":"对当前敌人造成damage点伤害，如果敌人当前剩余战斗力，小于其本场初始战斗力的rate%，则直接致死，消耗nuqi点怒气。"}
+{"enhanced":[],"name":"怒气回复","type":0,"prior":2,"ID":105,"mark":"增加num点怒气，消耗nuqi点怒气。"}
+{"enhanced":[],"name":"封印 [debuff]","type":0,"prior":2,"ID":106,"mark":"封印后num名敌人（包括当前敌人），使其首次上场的回合，不能触发普通技能，消耗nuqi点怒气。 "}
+{"enhanced":[],"name":"攻击增加固定值","type":0,"prior":2,"ID":107,"mark":"增加自身add点战斗力，效果一直存在，消耗nuqi点怒气。"}
+{"enhanced":[],"name":"攻击增加比例","type":0,"prior":2,"ID":108,"mark":"增加自身rate%的战斗力，消耗nuqi点怒气。"}
+{"enhanced":[],"name":"连击","type":0,"prior":2,"ID":109,"mark":"连续发动num次相当于自身当前战斗力rate%的攻击，消耗nuqi点怒气。"}
+{"enhanced":[],"name":"吸取生命固定值","type":0,"prior":2,"ID":110,"mark":"对当前敌人造成damage点伤害，并将其中的rate%转化为自身战斗力，消耗nuqi点怒气。"}
+{"enhanced":[],"name":"吸取生命比例","type":0,"prior":2,"ID":111,"mark":"降低敌人rate%的战斗力，并将降低部分的rate2%转化为自身战斗力，消耗nuqi点怒气。"}
+{"enhanced":[],"name":"自爆","type":0,"prior":2,"ID":112,"mark":"牺牲自己，对敌人造成rate%自身当前战斗力的伤害，消耗nuqi点怒气。"}
+{"enhanced":[],"name":"伤害加倍 [debuff]","type":0,"prior":2,"ID":113,"mark":"使当前敌人受到的下次伤害提升rate%，效果直至死亡，消耗nuqi点怒气。 "}
+{"enhanced":[],"name":"HP回复 (以下为郭襄新加)","type":2,"prior":3,"ID":114,"mark":"当受到致死攻击时，有gailv%的概率保留1点战斗力，并恢复自身本场初始战斗力的rate%，消耗nuqi点怒气。"}
+{"enhanced":[],"name":"反弹伤害","type":0,"prior":1,"ID":115,"mark":"消耗nuqi点怒气释放反弹，反弹敌方rate%回合所有技能伤害。（群伤返还到当前对战人身上）"}
+{"enhanced":[],"name":"攻击后回气","type":0,"prior":2,"ID":116,"mark":"对当前敌人，造成自身战斗力rate%的伤害，并回复num点怒气，消耗nuqi点怒气。"}
+{"enhanced":[],"name":"百分比攻击后回气","type":0,"prior":2,"ID":117,"mark":"减少当前敌人rate%的战斗力，并回复num点怒气，消耗nuqi点怒气。"}
+{"enhanced":[],"name":"自增敌减","type":0,"prior":2,"ID":118,"mark":"减少当前敌人rate%的战斗力，增加自身rate2%的战斗力，消耗nuqi点怒气。"}
+{"enhanced":[],"name":"基础伤害+比例伤害","type":0,"prior":2,"ID":119,"mark":"对当前敌人造成自身战斗力rate%的伤害，并额外受到num点伤害，消耗nuqi点怒气。"}
+{"enhanced":[],"name":"死亡加气","type":2,"prior":1,"ID":201,"mark":"当自身死亡时，有gailv%的概率增加num点怒气。"}
+{"enhanced":[],"name":"进场加气","type":1,"prior":1,"ID":202,"mark":"己方武者战斗开始时有gailv%的概率增加num点怒气。"}
+{"enhanced":[],"name":"杀人加气","type":3,"prior":1,"ID":203,"mark":"击杀敌人时有gailv%的概率增加num点怒气。"}

@@ -1,0 +1,10 @@
+{"exp":0,"num":1,"type":1,"dragonSlot":1,"price":5000}
+{"exp":7,"num":20,"type":1,"dragonSlot":2,"price":50000}
+{"exp":14,"num":50,"type":1,"dragonSlot":3,"price":300000}
+{"exp":28,"num":60,"type":1,"dragonSlot":4,"price":500000}
+{"exp":42,"num":20,"type":2,"dragonSlot":5,"price":500}
+{"dragonLevel":1,"exp":0}
+{"dragonLevel":2,"exp":7}
+{"dragonLevel":3,"exp":14}
+{"dragonLevel":4,"exp":28}
+{"dragonLevel":5,"exp":42}

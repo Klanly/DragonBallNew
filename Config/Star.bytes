@@ -1,0 +1,6 @@
+{"up_DefParam":[1,1.2,1.4,1.7,2.9,3.5],"resolve_SoulGet":[0,0,1,4,20,120],"up_CoinCost":[0,2000,5000,10000,20000,50000],"resolve_CoinCost":[500,2000,5000,10000,20000,50000],"up_AtkParam":[1,1.2,1.4,1.7,2.9,3.5],"up_SoulCost":[1,5,10,30,100,600],"ID":1}
+{"up_DefParam":[1,1.2,1.7,2.3,3],"resolve_SoulGet":[0,1,4,20,120],"up_CoinCost":[0,5000,10000,20000,50000],"resolve_CoinCost":[2000,5000,10000,20000,50000],"up_AtkParam":[1,1.2,1.7,2.3,3],"up_SoulCost":[1,10,30,100,600],"ID":2}
+{"up_DefParam":[1,1.4,1.8,2.2],"resolve_SoulGet":[1,4,20,120],"up_CoinCost":[0,10000,20000,50000],"resolve_CoinCost":[5000,10000,20000,50000],"up_AtkParam":[1,1.4,1.8,2.2],"up_SoulCost":[1,30,100,600],"ID":3}
+{"up_DefParam":[1,1.2,1.5],"resolve_SoulGet":[4,20,120],"up_CoinCost":[0,20000,50000],"resolve_CoinCost":[10000,20000,50000],"up_AtkParam":[1,1.2,1.5],"up_SoulCost":[1,100,600],"ID":4}
+{"up_DefParam":[1,1.2],"resolve_SoulGet":[20,120],"up_CoinCost":[0,50000],"resolve_CoinCost":[20000,50000],"up_AtkParam":[1,1.2],"up_SoulCost":[1,600],"ID":5}
+{"up_DefParam":[1],"resolve_SoulGet":[120],"up_CoinCost":[0],"resolve_CoinCost":[50000],"up_AtkParam":[1],"up_SoulCost":[1],"ID":6}

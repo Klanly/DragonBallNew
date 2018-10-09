@@ -1,0 +1,124 @@
+{"frames": {
+
+"BuErMa.png":
+{
+	"frame": {"x":2,"y":605,"w":217,"h":401},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":24,"w":217,"h":401},
+	"sourceSize": {"w":283,"h":425}
+},
+"DaDaoLang.png":
+{
+	"frame": {"x":2,"y":2,"w":529,"h":433},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":529,"h":433},
+	"sourceSize": {"w":529,"h":433}
+},
+"DaHaiGui.png":
+{
+	"frame": {"x":533,"y":2,"w":443,"h":251},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":443,"h":251},
+	"sourceSize": {"w":443,"h":251}
+},
+"GuiXianRen.png":
+{
+	"frame": {"x":221,"y":437,"w":298,"h":316},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":298,"h":316},
+	"sourceSize": {"w":298,"h":316}
+},
+"WuKong.png":
+{
+	"frame": {"x":533,"y":255,"w":391,"h":348},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":391,"h":348},
+	"sourceSize": {"w":391,"h":348}
+},
+"WuLong.png":
+{
+	"frame": {"x":521,"y":605,"w":214,"h":343},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":343},
+	"sourceSize": {"w":214,"h":343}
+},
+"guidance-1010.png":
+{
+	"frame": {"x":926,"y":255,"w":74,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":86},
+	"sourceSize": {"w":74,"h":86}
+},
+"guidance-1111.png":
+{
+	"frame": {"x":2,"y":437,"w":147,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":147,"h":147},
+	"sourceSize": {"w":153,"h":153}
+},
+"guidance-1113.png":
+{
+	"frame": {"x":926,"y":343,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":70,"h":70},
+	"sourceSize": {"w":76,"h":76}
+},
+"mask-1008.png":
+{
+	"frame": {"x":1012,"y":35,"w":10,"h":10},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":10},
+	"sourceSize": {"w":10,"h":10}
+},
+"trumpet-1003.png":
+{
+	"frame": {"x":978,"y":68,"w":20,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":20,"h":31},
+	"sourceSize": {"w":50,"h":39}
+},
+"trumpet-1004.png":
+{
+	"frame": {"x":978,"y":35,"w":32,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":32,"h":31},
+	"sourceSize": {"w":50,"h":39}
+},
+"trumpet-1005.png":
+{
+	"frame": {"x":978,"y":2,"w":42,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":42,"h":31},
+	"sourceSize": {"w":50,"h":39}
+},
+"trumpet-1006.png":
+{
+	"frame": {"x":151,"y":437,"w":50,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":39},
+	"sourceSize": {"w":50,"h":39}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "NewGuideUI.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f86500b273997054415f6816642069a3:1/1$"
+}
+}

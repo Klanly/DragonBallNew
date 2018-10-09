@@ -1,0 +1,36 @@
+{"frames": {
+
+"laiba.png":
+{
+	"frame": {"x":2,"y":734,"w":424,"h":236},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":424,"h":236},
+	"sourceSize": {"w":424,"h":236}
+},
+"manhua-05.png":
+{
+	"frame": {"x":2,"y":2,"w":435,"h":427},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":435,"h":427},
+	"sourceSize": {"w":435,"h":427}
+},
+"manhua-11.png":
+{
+	"frame": {"x":2,"y":431,"w":427,"h":301},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":301},
+	"sourceSize": {"w":427,"h":301}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "Trans.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8ae0d683e04ef859c9d60bdc4ab270a3:1/1$"
+}
+}

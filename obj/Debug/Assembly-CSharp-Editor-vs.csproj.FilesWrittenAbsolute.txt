@@ -1,0 +1,15 @@
+/Users/xin/Desktop/DragonBall/Client/DragonBall/Temp/bin/Debug/UnityEngine.dll
+/Users/xin/Desktop/DragonBall/Client/DragonBall/Temp/bin/Debug/UnityEditor.dll
+/Users/xin/Desktop/DragonBall/Client/DragonBall/Temp/bin/Debug/Assembly-UnityScript.dll
+/Users/xin/Desktop/DragonBall/Client/DragonBall/Temp/bin/Debug/JsonFx.Json.dll
+/Users/xin/Desktop/DragonBall/Client/DragonBall/Temp/bin/Debug/TDGAAnalytics.dll
+/Users/xin/Desktop/DragonBall/Client/DragonBall/Temp/bin/Debug/SmoothMoves_Build.dll
+/Users/xin/Desktop/DragonBall/Client/DragonBall/Temp/bin/Debug/SmoothMoves_Editor.dll
+/Users/xin/Desktop/DragonBall/Client/DragonBall/Temp/bin/Debug/SmoothMoves_Runtime.dll
+/Users/xin/Desktop/DragonBall/Client/DragonBall/Temp/bin/Debug/UnityEditor.Graphs.dll
+/Users/xin/Desktop/DragonBall/Client/DragonBall/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/xin/Desktop/DragonBall/Client/DragonBall/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/xin/Desktop/DragonBall/Client/DragonBall/Temp/bin/Debug/Mono.Cecil.dll
+/Users/xin/Desktop/DragonBall/Client/DragonBall/Temp/bin/Debug/nunit.framework.dll
+/Users/xin/Desktop/DragonBall/Client/DragonBall/Temp/bin/Debug/Unity.DataContract.dll
+/Users/xin/Desktop/DragonBall/Client/DragonBall/Temp/bin/Debug/ICSharpCode.NRefactory.dll

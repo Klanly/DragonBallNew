@@ -1,0 +1,40 @@
+Idle站立呼吸                                 0-50
+
+
+Free1休闲1                                   0-90
+
+Free2休闲2                                   0-50
+
+
+
+Skill技能                                    0-110
+
+GroupSkill群体攻击技能                        0-131
+
+
+
+OverSkill_0终结技开始                        0-99
+
+OverSkill_1终结技循环                        99-123
+
+OverSkill_2终结技结束                        123-224
+
+
+
+Injure_1站立挨打                              0-16
+
+Injure_2站立挨打                              16-32
+
+Injure_3站立挨打                              32-48
+
+Injure_Fly_V 浮空飞（腹部击中横飞）            0-8
+
+Injure_Fly_H 浮空飞（背部击中向下飞）          8-16
+
+Injure_G0贴墙倒地(面向下)                      0-3
+
+Injure_G1倒地弹起(面向下-》面向上)             3-12
+
+Injure_G2倒地弹起（面向上）                    12-31
+
+Injure_G3倒地挨打翻滚（挨打终止,可循环）        31-72

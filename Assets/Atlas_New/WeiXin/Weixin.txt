@@ -1,0 +1,68 @@
+{"frames": {
+
+"alalei.png":
+{
+	"frame": {"x":2,"y":310,"w":119,"h":122},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":119,"h":122},
+	"sourceSize": {"w":119,"h":122}
+},
+"beijing.png":
+{
+	"frame": {"x":255,"y":2,"w":546,"h":252},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":546,"h":252},
+	"sourceSize": {"w":546,"h":252}
+},
+"heiban.png":
+{
+	"frame": {"x":255,"y":256,"w":417,"h":253},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":417,"h":253},
+	"sourceSize": {"w":417,"h":253}
+},
+"jinbi.png":
+{
+	"frame": {"x":184,"y":310,"w":59,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":59,"h":79},
+	"sourceSize": {"w":59,"h":79}
+},
+"libao.png":
+{
+	"frame": {"x":123,"y":391,"w":59,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":59,"h":79},
+	"sourceSize": {"w":59,"h":79}
+},
+"wukong.png":
+{
+	"frame": {"x":2,"y":2,"w":251,"h":306},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":251,"h":306},
+	"sourceSize": {"w":251,"h":306}
+},
+"wulong.png":
+{
+	"frame": {"x":123,"y":310,"w":59,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":59,"h":79},
+	"sourceSize": {"w":59,"h":79}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "Weixin.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4c0ff33075e380da4b7093d93904930d:1/1$"
+}
+}
